@@ -7,6 +7,7 @@ public class BuyukHarfBulma {
 			char cc = bH.charAt(i);
 			if ((int) cc < 90) {
 				System.out.println(cc);
+				//aslşdkşasdkaşsdkşalslk
 			}
 		}
 	}
